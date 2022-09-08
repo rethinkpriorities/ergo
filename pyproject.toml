@@ -16,7 +16,6 @@ typing_extensions = "^3.7.4.2"
 pandas = "^1.0.3"
 sphinx-autodoc-typehints = "^1.10.3"
 plotnine = "^0.6.0"
-numpyro = {git = "https://github.com/pyro-ppl/numpyro.git", rev = "cda5fac353d162d34a76cc6b05033e24bd203fa0"}
 
 # Dataclasses only needed on 3.6, was merged into standard library for 3.7+
 dataclasses = {version="0.7", python="~3.6"}
